@@ -1,0 +1,1 @@
+hint: caesar cipher but think n^n, also 26 alphabet characters (mod wink wink)
