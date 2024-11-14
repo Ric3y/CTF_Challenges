@@ -1,7 +1,7 @@
 Answer: i_love_cats_meow
 
 Explaination:
-Caesar Cipher but each shift is exponential, meaning each letter is shifted by n^n, but the number gets too big so mod 26 to be in range:
+This cipher is basically ceasar cipher but each shift is exponential based on the letter's position. 
 
 Steps:  
 1) The shifts for each position are:
