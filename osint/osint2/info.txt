@@ -1,1 +1,1 @@
-Find the city where this image was taken in 
+Find the city and country of where this image was taken in (format City, Country)
