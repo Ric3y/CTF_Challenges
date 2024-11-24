@@ -1,0 +1,4 @@
+Answer: i_love_csec
+
+Explaination:
+Dancing men cypher, after decrypting the letters are scrambled, but each of the words above the stickman's head have a roman numeral correspond to their position (kiwi = II etc) 
